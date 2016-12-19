@@ -1,0 +1,13 @@
+
+body{
+	background: red;
+	font-family: Comic Sans MS;
+	font-size: 24;
+}
+h1{
+	color: black;
+}
+.g{
+	background: gray;
+	padding: 10px;
+}
